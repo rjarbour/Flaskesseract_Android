@@ -1,0 +1,95 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Ryland\Desktop\tesseract_communicator\Application\src\main\AndroidManifest.xml:18:1-40:12
+MERGED from [com.android.support:support-v13:27.0.2] C:\Users\Ryland\.gradle\caches\transforms-1\files-1.1\support-v13-27.0.2.aar\f5a033aa7e7bd63c3568e69e7b29079b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:27.0.2] C:\Users\Ryland\.gradle\caches\transforms-1\files-1.1\support-v4-27.0.2.aar\17bf8663f8c0c6ac70c814044c393751\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:27.0.2] C:\Users\Ryland\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.0.2.aar\7de7b3f11e58d2c90aca31fb12c091dd\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.0.2] C:\Users\Ryland\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.2.aar\2b78d06ce24bc1bfb05dabb8095383fb\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.0.2] C:\Users\Ryland\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.0.2.aar\dba4fae75ffcc81f8346cc0006e1d011\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\Ryland\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.2.aar\607f6be1b1466c9916b1ee6b8702e749\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.0.2] C:\Users\Ryland\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.2.aar\8541b048e6522bddfdc0da73b2493497\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] C:\Users\Ryland\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.2.aar\46b1789d05cd83edebfde1efc1247f4b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.0.2] C:\Users\Ryland\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.2.aar\9879dc7e5779e299f79716b2ae4be27c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.0.2] C:\Users\Ryland\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.2.aar\d78f096bebe03a22cc1490a476a72820\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.0.2] C:\Users\Ryland\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.2.aar\01acbc2b0e32a045e81b70c0472de9d3\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\Ryland\.gradle\caches\transforms-1\files-1.1\runtime-1.0.3.aar\785015fbf58d5d14dbd39908b4b3b82a\AndroidManifest.xml:17:1-24:12
+	package
+		ADDED from C:\Users\Ryland\Desktop\tesseract_communicator\Application\src\main\AndroidManifest.xml:19:5-47
+	xmlns:android
+		ADDED from C:\Users\Ryland\Desktop\tesseract_communicator\Application\src\main\AndroidManifest.xml:18:11-69
+uses-permission#android.permission.CAMERA
+ADDED from C:\Users\Ryland\Desktop\tesseract_communicator\Application\src\main\AndroidManifest.xml:21:5-65
+	android:name
+		ADDED from C:\Users\Ryland\Desktop\tesseract_communicator\Application\src\main\AndroidManifest.xml:21:22-62
+uses-feature#android.hardware.camera
+ADDED from C:\Users\Ryland\Desktop\tesseract_communicator\Application\src\main\AndroidManifest.xml:23:5-60
+	android:name
+		ADDED from C:\Users\Ryland\Desktop\tesseract_communicator\Application\src\main\AndroidManifest.xml:23:19-57
+uses-feature#android.hardware.camera.autofocus
+ADDED from C:\Users\Ryland\Desktop\tesseract_communicator\Application\src\main\AndroidManifest.xml:24:5-70
+	android:name
+		ADDED from C:\Users\Ryland\Desktop\tesseract_communicator\Application\src\main\AndroidManifest.xml:24:19-67
+application
+ADDED from C:\Users\Ryland\Desktop\tesseract_communicator\Application\src\main\AndroidManifest.xml:26:5-38:19
+	android:label
+		ADDED from C:\Users\Ryland\Desktop\tesseract_communicator\Application\src\main\AndroidManifest.xml:27:9-41
+	android:icon
+		ADDED from C:\Users\Ryland\Desktop\tesseract_communicator\Application\src\main\AndroidManifest.xml:28:9-45
+	android:allowBackup
+		ADDED from C:\Users\Ryland\Desktop\tesseract_communicator\Application\src\main\AndroidManifest.xml:26:18-44
+	android:theme
+		ADDED from C:\Users\Ryland\Desktop\tesseract_communicator\Application\src\main\AndroidManifest.xml:29:9-45
+activity#com.example.android.camera2basic.CameraActivity
+ADDED from C:\Users\Ryland\Desktop\tesseract_communicator\Application\src\main\AndroidManifest.xml:31:9-37:20
+	android:label
+		ADDED from C:\Users\Ryland\Desktop\tesseract_communicator\Application\src\main\AndroidManifest.xml:32:19-51
+	android:name
+		ADDED from C:\Users\Ryland\Desktop\tesseract_communicator\Application\src\main\AndroidManifest.xml:31:19-49
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\Ryland\Desktop\tesseract_communicator\Application\src\main\AndroidManifest.xml:33:13-36:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Ryland\Desktop\tesseract_communicator\Application\src\main\AndroidManifest.xml:34:17-69
+	android:name
+		ADDED from C:\Users\Ryland\Desktop\tesseract_communicator\Application\src\main\AndroidManifest.xml:34:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Ryland\Desktop\tesseract_communicator\Application\src\main\AndroidManifest.xml:35:17-77
+	android:name
+		ADDED from C:\Users\Ryland\Desktop\tesseract_communicator\Application\src\main\AndroidManifest.xml:35:27-74
+uses-sdk
+INJECTED from C:\Users\Ryland\Desktop\tesseract_communicator\Application\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Ryland\Desktop\tesseract_communicator\Application\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Ryland\Desktop\tesseract_communicator\Application\src\main\AndroidManifest.xml
+MERGED from [com.android.support:support-v13:27.0.2] C:\Users\Ryland\.gradle\caches\transforms-1\files-1.1\support-v13-27.0.2.aar\f5a033aa7e7bd63c3568e69e7b29079b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v13:27.0.2] C:\Users\Ryland\.gradle\caches\transforms-1\files-1.1\support-v13-27.0.2.aar\f5a033aa7e7bd63c3568e69e7b29079b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.0.2] C:\Users\Ryland\.gradle\caches\transforms-1\files-1.1\support-v4-27.0.2.aar\17bf8663f8c0c6ac70c814044c393751\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.0.2] C:\Users\Ryland\.gradle\caches\transforms-1\files-1.1\support-v4-27.0.2.aar\17bf8663f8c0c6ac70c814044c393751\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.0.2] C:\Users\Ryland\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.0.2.aar\7de7b3f11e58d2c90aca31fb12c091dd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.0.2] C:\Users\Ryland\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.0.2.aar\7de7b3f11e58d2c90aca31fb12c091dd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.2] C:\Users\Ryland\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.2.aar\2b78d06ce24bc1bfb05dabb8095383fb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.2] C:\Users\Ryland\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.2.aar\2b78d06ce24bc1bfb05dabb8095383fb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.2] C:\Users\Ryland\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.0.2.aar\dba4fae75ffcc81f8346cc0006e1d011\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.2] C:\Users\Ryland\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.0.2.aar\dba4fae75ffcc81f8346cc0006e1d011\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\Ryland\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.2.aar\607f6be1b1466c9916b1ee6b8702e749\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\Ryland\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.2.aar\607f6be1b1466c9916b1ee6b8702e749\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] C:\Users\Ryland\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.2.aar\8541b048e6522bddfdc0da73b2493497\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] C:\Users\Ryland\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.2.aar\8541b048e6522bddfdc0da73b2493497\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] C:\Users\Ryland\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.2.aar\46b1789d05cd83edebfde1efc1247f4b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] C:\Users\Ryland\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.2.aar\46b1789d05cd83edebfde1efc1247f4b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] C:\Users\Ryland\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.2.aar\9879dc7e5779e299f79716b2ae4be27c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] C:\Users\Ryland\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.2.aar\9879dc7e5779e299f79716b2ae4be27c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] C:\Users\Ryland\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.2.aar\d78f096bebe03a22cc1490a476a72820\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] C:\Users\Ryland\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.2.aar\d78f096bebe03a22cc1490a476a72820\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] C:\Users\Ryland\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.2.aar\01acbc2b0e32a045e81b70c0472de9d3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] C:\Users\Ryland\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.2.aar\01acbc2b0e32a045e81b70c0472de9d3\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\Ryland\.gradle\caches\transforms-1\files-1.1\runtime-1.0.3.aar\785015fbf58d5d14dbd39908b4b3b82a\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\Ryland\.gradle\caches\transforms-1\files-1.1\runtime-1.0.3.aar\785015fbf58d5d14dbd39908b4b3b82a\AndroidManifest.xml:20:5-22:41
+INJECTED from C:\Users\Ryland\Desktop\tesseract_communicator\Application\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Ryland\Desktop\tesseract_communicator\Application\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Ryland\Desktop\tesseract_communicator\Application\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Ryland\Desktop\tesseract_communicator\Application\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Ryland\Desktop\tesseract_communicator\Application\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Ryland\Desktop\tesseract_communicator\Application\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Ryland\Desktop\tesseract_communicator\Application\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Ryland\Desktop\tesseract_communicator\Application\src\main\AndroidManifest.xml
